@@ -2,7 +2,7 @@ import socket
 
 #server and client information
 client_version = '0.1.2_c'
-HOST = input('input ip adress: ')
+HOST = input('input ip address: ')
 PORT = 9090
 
 #establishing connection
